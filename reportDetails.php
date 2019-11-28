@@ -28,7 +28,7 @@
 		 			<th>Amount</th>
 		 			<th>bought By</th>
 		 			<th>purchase  Date</th>
-		 			<th><a href="payer.php">go back</a></th>
+		 			<th><a href="panier_commande.php">go back</a></th>
 		 		</tr>
 		 	</thead>
 		 	<tbody>
